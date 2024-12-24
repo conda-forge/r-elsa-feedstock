@@ -3,19 +3,6 @@ About r-elsa-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-elsa-feedstock/blob/main/LICENSE.txt)
 
-
-About r-elsa
-------------
-
-Home: http://r-gis.net
-
-Package license: GPL-3.0-or-later
-
-Summary: A framework that provides the methods for quantifying entropy-based local indicator of spatial association (ELSA) that can be used for both continuous and categorical data. In addition, this package offers other methods to measure local indicators of spatial associations (LISA). Furthermore, global spatial structure can be measured using a variogram-like diagram, called entrogram. For more information, please check that paper: Naimi, B., Hamm, N. A., Groen, T. A., Skidmore, A. K., Toxopeus, A. G., & Alibakhshi, S. (2019) <doi:10.1016/j.spasta.2018.10.001>.
-
-About r-elsa
-------------
-
 Home: http://r-gis.net
 
 Package license: GPL-3.0-or-later
@@ -27,66 +14,6 @@ Current build status
 
 
 <table>
-    
-  <tr>
-    <td>Azure</td>
-    <td>
-      <details>
-        <summary>
-          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17868&branchName=main">
-            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-elsa-feedstock?branchName=main">
-          </a>
-        </summary>
-        <table>
-          <thead><tr><th>Variant</th><th>Status</th></tr></thead>
-          <tbody><tr>
-              <td>linux_64_r_base4.3</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17868&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-elsa-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_r_base4.3" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_r_base4.4</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17868&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-elsa-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_r_base4.4" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_r_base4.3</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17868&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-elsa-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_r_base4.3" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_r_base4.4</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17868&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-elsa-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_r_base4.4" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_r_base4.3</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17868&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-elsa-feedstock?branchName=main&jobName=win&configuration=win%20win_64_r_base4.3" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_r_base4.4</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17868&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-elsa-feedstock?branchName=main&jobName=win&configuration=win%20win_64_r_base4.4" alt="variant">
-                </a>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </details>
-    </td>
-  </tr>
 </table>
 
 Current release info
